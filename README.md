@@ -10,7 +10,7 @@ https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-
 
 从序列化文件 `.cobaltstrike.beacon_keys` 获取 `PublicKey`公钥 私钥`PrivateKey`
 
-`.cobaltstrike.beacon_keys`
+`file .cobaltstrike.beacon_keys`
 
 ```
 .cobaltstrike.beacon_keys: Java serialization data, version 5
